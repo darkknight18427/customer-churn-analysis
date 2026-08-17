@@ -105,7 +105,7 @@ Numerical features were standardized, while categorical features were encoded be
 
 ---
 
-## 📈 Model Evaluation
+##  Model Evaluation
 
 The models were evaluated using:
 
@@ -162,9 +162,9 @@ The main lesson from this project is that a model achieving extremely high perfo
 
 ---
 
-👤 Author
+ Author
 
-****Mahi Shahriar**
+**Mahi Shahriar**
 
 B.Sc. in Statistics
 University of Rajshahi
