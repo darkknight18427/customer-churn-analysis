@@ -154,7 +154,7 @@ The project compares multiple evaluation metrics rather than relying only on acc
 
 ---
 
-📌 Conclusion
+## Conclusion
 
 This project demonstrates a complete machine learning workflow for customer churn analysis, from data assessment and exploratory analysis to model comparison and investigation of suspiciously high predictive performance.
 
@@ -162,7 +162,7 @@ The main lesson from this project is that a model achieving extremely high perfo
 
 ---
 
- Author
+ ## Author
 
 **Mahi Shahriar**
 
